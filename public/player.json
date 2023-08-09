@@ -1,0 +1,65 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6000",
+        "name": "Shakib Al Hasan",
+        "img": "https://resources.pulse.icc-cricket.com/photo-resources/2023/03/14/120e059c-4a15-4e24-8ba2-0e730e37493c/Shakib-fielding.jpg?width=640&height=360",
+        "role": "Allrounder",
+        "nationality": "Bangladesh"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6001",
+        "name": "Babar Azam",
+        "img": "https://english.cdn.zeenews.com/sites/default/files/2021/10/19/980756-babar-azam.jpg",
+        "role": "Batsman",
+        "nationality": "Pakistan"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6002",
+        "name": "Virat Kohli",
+        "img": "https://www.mykhel.com/img/2022/12/resized-image-promo-2022-12-10t162506-325-1670669716.jpeg",
+        "role": "Batsman",
+        "nationality": "India"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6003",
+        "name": "David Warner",
+        "img": "https://d1af7m13b2f34i.cloudfront.net/media/david-warner-sportstiger-6-1672828144440-original.jpg",
+        "role": "Batsman",
+        "nationality": "Australia"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6004",
+        "name": "Kane Williamson",
+        "img": "https://www.mpl.live/blog/wp-content/uploads/2021/04/Kane-Williamson-The-Reliable-Captain-1024x576.png",
+        "role": "Batsman",
+        "nationality": "New Zealand"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6005",
+        "name": "Andre Russell",
+        "img": " https://www.thestatesman.com/wp-content/uploads/2019/06/Russell.jpg",
+        "role": "Allrounder",
+        "nationality": "West Indies"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6006",
+        "name": "Dasun Shanaka",
+        "img": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/323700/323751.4.jpg",
+        "role": "Allrounder",
+        "nationality": "Sri Lanka"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6007",
+        "name": "Lungi Ngidi",
+        "img": "https://resources.pulse.icc-cricket.com/ICC/photo/2022/10/30/5d13d073-844e-4e8c-a78e-733ba2b1d5d0/AQMOZ17E.jpg",
+        "role": "Bowler",
+        "nationality": "South Africa"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6008",
+        "name": "Rashid Khan",
+        "img": "https://www.sportsunfold.com/wp-content/uploads/2023/02/siasat-1.jpg",
+        "role": "Bowler",
+        "nationality": "Afghanistan"
+    }
+]
